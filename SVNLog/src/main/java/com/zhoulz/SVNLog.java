@@ -34,9 +34,9 @@ public class SVNLog {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-		String url = "svn://120.24.179.28/source/p2p";
-		String username = "zhoulingzhou";
-		String password = "zhoulingzhouabc123";
+		String url = "svn://xxx";
+		String username = "xxx";
+		String password = "xxx";
 		String target = "D:/java/workspace/p2p/target";
 		String srcJava = "src/main/java";
 		String srcResource = "src/main/resources";
